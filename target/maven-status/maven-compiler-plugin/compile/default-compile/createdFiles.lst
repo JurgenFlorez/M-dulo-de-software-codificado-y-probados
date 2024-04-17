@@ -1,0 +1,4 @@
+com\aprendizaje\paraborrar\JakartaRestConfiguration.class
+servelets\RecoverPassword.class
+com\aprendizaje\paraborrar\resources\JakartaEE10Resource.class
+servelets\RecibeDatos.class
